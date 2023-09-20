@@ -1,3 +1,5 @@
+#hi hello First Year Students
+
 d={'key1':'item1','key2':'item2','key3':'item3'}
 
 print(len(d))
